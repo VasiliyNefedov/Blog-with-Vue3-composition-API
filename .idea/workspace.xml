@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:home" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83dc9cd7-626e-4ea8-8030-94755c49084f" name="Default Changelist" comment="" />
+    <list default="true" id="83dc9cd7-626e-4ea8-8030-94755c49084f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-with-vue3-compositionapi" beforeDir="false" afterPath="$PROJECT_DIR$/blog-with-vue3-compositionapi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/blog-with-vue3-compositionapi/src/views/Home.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog-with-vue3-compositionapi" />
+  </component>
   <component name="ProjectId" id="1mxyPA1CHMBaEqvZTMMenzw9K6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,12 +60,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610449509140</updated>
-      <workItem from="1610449510174" duration="7606000" />
+      <workItem from="1610449510174" duration="9038000" />
+      <workItem from="1610777788549" duration="849000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1399" y="332" key="run.anything.popup" timestamp="1610468290164">
